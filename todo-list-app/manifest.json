@@ -1,0 +1,47 @@
+{
+    
+ "background_color": "#fff",
+ "display": "standalone",
+ "theme_color": "#256db9",
+    
+  "short_name": "Todo List",
+  "name": "Todo List App",
+  "icons": [
+    {
+      "src": "resources/favicons/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "resources/favicons/android-chrome-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "resources/favicons/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+    ,
+    {
+      "src": "resources/favicons/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+    ,
+    {
+      "src": "resources/favicons/favicon.ico",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+    ,
+    {
+      "src": "resources/favicons/mstile-150x150.png",
+      "type": "image/png",
+      "sizes": "208x208"
+    }
+    
+  ],
+  "start_url": "index.html?launcher=true"
+  "start_url": "/"
+}
